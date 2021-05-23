@@ -1,0 +1,199 @@
+@media (min-width: 786px){
+    .desktop-btn {
+        display: inline-block
+    }
+    
+    .destop-menu { display: inline-block}
+    .bar { 
+        display: none;
+        margin-top: 5%;
+    }
+
+    .des-img {
+        float: right;
+        width: 50%;
+        margin-top: -245px;
+        overflow: hidden;
+        
+    }
+
+    .des-img img { 
+        width: 120%;
+        height: 540px;
+    }
+
+    .des-text { 
+        display: inline-block;
+        width: 50%;
+        padding-left: 4%;
+        margin-top: -160px;
+    }
+    .des-text h1,
+    .des-text p {
+        text-align: left;
+        padding: 0;
+    }
+    .des-text P {
+        padding-bottom: 30px;
+        padding-right: 30%;
+    }
+   
+    .des-text .para {padding-bottom: 80px;}
+
+    .des-text h1 {padding-bottom:20px;}
+    .Art {
+        height: 60vh;
+        margin-top: 130px;
+        background-image: linear-gradient(180deg, hsla(237, 23%, 32%, 0.9), hsla(237, 17%, 21%, 0.9));
+    }
+
+    .Art div { 
+        display: inline-block;
+       
+    }
+    .Art .phone-img { 
+        float: left;
+        height: 100%;
+        width: 50%;
+    }
+    .phone-img img {
+        float: left;
+        height: 140%;
+        width: 80%;
+        margin-top: -70px;
+    }
+
+    .Art .art-text {
+        float: right;
+        text-align: center;
+        width: 50%;
+    }
+
+    .Art .art-text h1,
+   .Art .art-text P { 
+       padding: 15% 0 5% 0;
+       width: 90%;
+       text-align: left;
+    }
+
+    .Art .art-text P {
+        padding: 0 25% 0 0;
+    }
+  
+    .intro { 
+        height: 80vh;
+
+    }
+
+    .intro div { 
+        display: inline-block;
+        
+    }
+    .intro-img {
+        float: left;
+        width: 50%;
+        
+    }
+
+    .intro-img img {
+        width: 120%;
+        margin-left: -40%;
+        
+    }
+
+    .intro-text {
+        float: right;
+        width: 50%;
+        text-align: left;
+    }
+
+    .intro-text h1 {
+        padding-bottom: 35px;
+    }
+
+    .intro-text p {
+        padding-left: 0;
+        padding-right: 25%;
+    }
+
+    footer { 
+        text-align: left;
+        margin-top: 160px;
+    }
+    
+   footer div {
+       display: inline-block;
+       width: 15%;
+       padding-top: 3%;
+       vertical-align: middle;
+         
+    }
+
+    
+    
+    footer img {
+        float: left;
+        margin-left: 10%;
+        margin-right: 10%;
+        /* margin-left: -40%; */
+        
+    }
+
+    .company {
+        margin-top: -30px;
+    }
+
+    .connect { margin-top: -60px;}
+
+}
+
+@media (min-width:540px){
+    
+   header {
+       height: 80vh;
+   }
+
+    header img {
+        padding-top: 5%;
+    }
+    header .fa-bars,
+     header .fa-times { padding-top: 5%;}
+
+    header h1 {
+        padding-top: 15%;
+        padding-bottom: 2%;
+    
+    }
+
+    header p {
+        padding-bottom: 2%;
+    }
+
+    
+    .btn-white,
+    .btn-ghost {
+        padding-top: 1.2%;
+    }
+
+    
+
+};
+
+
+@media (min-width:510px){
+    .Art {
+        height: 130vh;
+    }  
+
+    header h1 {
+        padding-top: 40%;
+        padding-bottom: 2%;
+    
+    }
+
+    header p {
+        padding-bottom: 2%;
+    }
+
+    
+};
