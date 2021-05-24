@@ -166,7 +166,7 @@ header {
     background-position: -320px -230px;
     background-color: hsl(356, 100%, 66%);
     text-align: center;
-    height: 140vh;
+    height: 120vh;
     border-bottom-left-radius: 90px;
     margin: 0 auto;
 }
@@ -409,7 +409,7 @@ section img {
     background-position: 0 -20px;
     background-repeat: no-repeat;
     margin-top: 40%;
-    height: 120vh;
+    height: 110vh;
     border-bottom-left-radius: 90px;
     border-top-right-radius: 90px;
 
